@@ -1,2 +1,2 @@
-# Nerxus-1.9
-Nerxus is executor.
+# NEAR3D-1.9
+SWASTON - Near3d
